@@ -1,1 +1,3 @@
+#+PUBLIC: true
+
 * use github action

@@ -34,9 +34,12 @@
  {:block/name "later",
   :block/created-at 1668340163898,
   :block/updated-at 1668340163898}
+ {:block/name "logseq publish",
+  :block/created-at 1668340220562,
+  :block/updated-at 1668340232009}
  {:block/name "nov 13th, 2022",
   :block/created-at 1668339705964,
-  :block/updated-at 1668339705964}
+  :block/updated-at 1668340220563}
  {:block/name "now",
   :block/created-at 1668340163898,
   :block/updated-at 1668340163898}
