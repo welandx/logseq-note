@@ -1,4 +1,5 @@
 #+PUBLIC: true
 
 * use [[github action]]
-*
+* page https://github.com/marketplace/actions/logseq-publish
+* video {{video https://www.youtube.com/watch?v=UYqJcFEYUsY}}

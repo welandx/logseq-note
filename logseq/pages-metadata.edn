@@ -28,6 +28,9 @@
  {:block/name "favorites",
   :block/created-at 1668340163898,
   :block/updated-at 1668340163898}
+ {:block/name "github action",
+  :block/created-at 1668344136839,
+  :block/updated-at 1668344153401}
  {:block/name "in-progress",
   :block/created-at 1668340163898,
   :block/updated-at 1668340163898}
@@ -36,7 +39,7 @@
   :block/updated-at 1668340163898}
  {:block/name "logseq publish",
   :block/created-at 1668340220562,
-  :block/updated-at 1668340232009}
+  :block/updated-at 1668344136839}
  {:block/name "nov 13th, 2022",
   :block/created-at 1668339705964,
   :block/updated-at 1668340220563}
