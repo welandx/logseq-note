@@ -39,10 +39,13 @@
   :block/updated-at 1668340163898}
  {:block/name "logseq publish",
   :block/created-at 1668340220562,
-  :block/updated-at 1668344136839}
+  :block/updated-at 1668344625446}
  {:block/name "nov 13th, 2022",
   :block/created-at 1668339705964,
   :block/updated-at 1668340220563}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668386551070,
+  :block/updated-at 1668386823975}
  {:block/name "now",
   :block/created-at 1668340163898,
   :block/updated-at 1668340163898}
@@ -53,5 +56,14 @@
   :block/created-at 1668340163898,
   :block/updated-at 1668340163898}
  {:block/name "waiting",
-  :block/created-at 1668340163898, 
-  :block/updated-at 1668340163898}]
+  :block/created-at 1668340163898,
+  :block/updated-at 1668340163898}
+ {:block/name "史纲",
+  :block/created-at 1668386823973,
+  :block/updated-at 1668391456937}
+ {:block/name "土地政策",
+  :block/created-at 1668389632353,
+  :block/updated-at 1668389632353}
+ {:block/name "甲午战争",
+  :block/created-at 1668388555742, 
+  :block/updated-at 1668388555742}]
