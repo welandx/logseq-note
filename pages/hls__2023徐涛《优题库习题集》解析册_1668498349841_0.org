@@ -1,0 +1,104 @@
+#+file-path: ../assets/2023徐涛《优题库习题集》解析册_1668498349841_0.pdf
+:PROPERTIES:
+:file: [[../assets/2023徐涛《优题库习题集》解析册_1668498349841_0.pdf][2023徐涛《优题库习题集》解析册_1668498349841_0.pdf]]
+:file-path: ../assets/2023徐涛《优题库习题集》解析册_1668498349841_0.pdf
+:END:
+
+* 1841年5月，广州三元里人民的抗英斗争，是中国近代史上中国人民第一次大规模的反侵略武装斗争
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 216
+:hl-color: yellow
+:id: 63734b2f-4b46-4d69-afa8-dc32c9473b54
+:END:
+* 林则徐是近代中国睁眼看世界的第一人
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 217
+:hl-color: yellow
+:id: 63734b59-84c1-42d4-972c-ae6c111a68fb
+:END:
+* 1894年11月，孙中山到檀香山组建了第一个革命团体兴中会,立誓“驱除戦虏，恢复中国，创立合众政府”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 217
+:hl-color: yellow
+:id: 63734bb8-6133-42f1-a191-89456e70a8e8
+:END:
+* 王韬曾参与洋务运动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 217
+:hl-color: yellow
+:id: 63734c0d-88e7-4fbd-b842-d32ce459f94b
+:END:
+* 选项B、D,为中国逐步沦为半封建社会的原因
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 219
+:hl-color: yellow
+:id: 63734c76-0d62-48c0-a87a-ba6a33d257be
+:END:
+* 香港是被英国殖民主义者通过向中国发动侵略战争，强迫清政府先后签订《南京条约》《北京条约》《展拓香港界址专条》等不平等条约而强占的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 219
+:hl-color: yellow
+:id: 63734c9a-151d-4740-a8a9-139ae2656707
+:END:
+* 1832年德国基督教传教士郭士立受英国东印度公司派遣，以传教为掩护，在中国沿海进行过长达几个月的间谍侦察活动。英国传教士李提摩太主持广学会，并发行刊物《万国公报》
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 219
+:hl-color: yellow
+:id: 63734cc0-709b-47d0-b3ba-28a1ab6e2f31
+:END:
+* 炮制了所谓的“黄祸论”，即中国威胁论
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 219
+:hl-color: yellow
+:id: 63734ccb-cab1-43a5-bd53-6d8591f9a1a9
+:END:
+* 选项实行民主共和是资产阶级革命派的思想主张，不是几位启蒙者的主张
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 221
+:hl-color: yellow
+:id: 63734cf6-985f-4fbe-822d-91d9f4571d83
+:END:
+* 基本上是资本主义性质的近代企业
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:hl-color: yellow
+:id: 63735732-68bb-41b0-92dd-1f145bdea125
+:END:
+* 反映了太平天国某些领导人在后期试图通过向外国学习来寻求出路的一种努力。故太平天国农民战争具有了不同于以往农民战争的新的历史特点
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:hl-color: yellow
+:id: 6373577b-1b48-4017-9d07-71478b0c6d4f
+:END:
+* 轮船招商局、开平矿务局、天津电报局和上海机器织布局
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 226
+:hl-color: yellow
+:id: 637357a3-4080-44e1-a8d8-621a123dba54
+:END:
+* 俄、德、法三国又以干涉还辽“有功”为由
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 226
+:hl-color: yellow
+:id: 637357d3-5d16-4303-98b6-aa7b0198c83b
+:END:
+* 强学会、南学会、保国会
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 227
+:hl-color: yellow
+:id: 637357ea-dd35-4b71-a89d-eb62dbd2d7b4
+:END:

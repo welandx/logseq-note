@@ -1,0 +1,349 @@
+#+file-path: ../assets/2023徐涛《优题库习题集》试题册_1668498418348_0.pdf
+:PROPERTIES:
+:file: [[../assets/2023徐涛《优题库习题集》试题册_1668498418348_0.pdf][2023徐涛《优题库习题集》试题册_1668498418348_0.pdf]]
+:file-path: ../assets/2023徐涛《优题库习题集》试题册_1668498418348_0.pdf
+:END:
+
+* 最基本的依据 B
+:PROPERTIES:
+:hl-page: 132
+:ls-type: annotation
+:id: 63734479-c64c-42a9-a854-48d90939ebd6
+:hl-color: yellow
+:END:
+* 最早产生的新的阶级 D
+:PROPERTIES:
+:hl-page: 132
+:ls-type: annotation
+:id: 6373448d-8426-48c9-9812-8587fc167724
+:hl-color: yellow
+:background-color: red
+:END:
+** C
+* 鸦片战争之所以成为中国近代史的起点 D
+:PROPERTIES:
+:hl-page: 132
+:ls-type: annotation
+:id: 637344cd-9fec-4650-a573-bbe2b86c9bf5
+:hl-color: yellow
+:END:
+* 鸦片战争的后果 D
+:PROPERTIES:
+:hl-page: 132
+:ls-type: annotation
+:id: 63734570-3bf3-4408-a59b-8dced7ab71b6
+:hl-color: yellow
+:background-color: red
+:END:
+** C
+* 帝国主义侵略中国的最终目的 C
+:PROPERTIES:
+:hl-page: 132
+:ls-type: annotation
+:id: 63734677-6138-4f49-9cef-9dfc3b5c79ac
+:hl-color: yellow
+:END:
+* A
+* C
+:PROPERTIES:
+:background-color: red
+:END:
+** D
+* 政府组织的抗争 C
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:hl-color: yellow
+:id: 63734752-f394-442b-be43-a240cf561b61
+:END:
+* 人民第一次大规模的反侵略武装斗争 A
+:PROPERTIES:
+:hl-page: 133
+:ls-type: annotation
+:id: 63734762-ea21-4634-a978-ea55246a3149
+:hl-color: yellow
+:background-color: red
+:END:
+** B ((63734b2f-4b46-4d69-afa8-dc32c9473b54))
+* 睁眼看世界的第一人 B
+:PROPERTIES:
+:hl-page: 133
+:ls-type: annotation
+:id: 63734799-a749-40bb-aa83-a254a5e7df60
+:hl-color: yellow
+:background-color: red
+:END:
+** A ((63734b59-84c1-42d4-972c-ae6c111a68fb))
+:PROPERTIES:
+:id: 63734b52-e30e-4919-a4cd-098dd181c36d
+:END:
+* ?
+:PROPERTIES:
+:background-color: red
+:END:
+** B ((63734bb8-6133-42f1-a191-89456e70a8e8))
+* ?
+:PROPERTIES:
+:background-color: red
+:END:
+** C ((63734c0d-88e7-4fbd-b842-d32ce459f94b))
+* 瓜分图谋并未得逞，其根本原因在于 A
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:hl-color: yellow
+:id: 637347ba-d10f-46b3-a329-fa28780f41c8
+:END:
+* 半殖民地半封建社会的主要矛盾 D
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 637347d7-4fa2-400a-aa41-33d4ba31df08
+:hl-color: yellow
+:background-color: red
+:END:
+** A,C
+* 两大历史任务之间的关系 A,C
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 637347ef-7d47-41dc-b9dc-b1294d661106
+:hl-color: yellow
+:END:
+* 逐步沦为半殖民地社会的原因 A,C,D
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 63734825-f875-4890-a42b-6d2e48a67d2c
+:hl-color: yellow
+:background-color: red
+:END:
+** A,C ((63734c76-0d62-48c0-a87a-ba6a33d257be))
+* 香港被强占，原因是英国殖民主义者 B,D
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 6373484d-5bb5-4cf5-a02f-ccd195dd1fac
+:hl-color: yellow
+:END:
+** B,C,D ((63734c9a-151d-4740-a8a9-139ae2656707))
+* 对中国进行文化渗透，具体包括 A
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 6373486a-681c-4c83-98f5-46e22a8dd4df
+:hl-color: yellow
+:background-color: red
+:END:
+** A,B,C
+** ((63734cc0-709b-47d0-b3ba-28a1ab6e2f31))
+** ((63734ccb-cab1-43a5-bd53-6d8591f9a1a9))
+* 爱国官兵反抗外来侵略的斗争 B,D
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 6373488f-4abc-4f3c-a14b-59743b073011
+:hl-color: yellow
+:END:
+* “陈死寂灭之气象”主要是指义和团运动 B,C
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 637348bb-3122-4e0c-8fa0-22d854db39db
+:hl-color: yellow
+:END:
+* 近代中国历次反侵略战争失败的原因 A,C
+:PROPERTIES:
+:hl-page: 135
+:ls-type: annotation
+:id: 63734911-0624-489e-a201-9980e0b8dc49
+:hl-color: yellow
+:END:
+* 相同点 A,B,C
+:PROPERTIES:
+:hl-page: 135
+:ls-type: annotation
+:id: 6373493c-e152-40b0-9b7f-60e8a67bdb14
+:hl-color: yellow
+:END:
+* 鸦片战争以后 B,C,D
+:PROPERTIES:
+:hl-page: 135
+:ls-type: annotation
+:id: 6373498a-bd3d-4cb7-ba58-e523d2ac67a6
+:hl-color: yellow
+:background-color: red
+:END:
+** A,C,D ((63734cf6-985f-4fbe-822d-91d9f4571d83))
+* 探索
+:PROPERTIES:
+:background-color: blue
+:END:
+* 这篇纲领始终只是空想、幻想 D
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:hl-color: yellow
+:id: 63734dd8-3333-49cd-8e39-2797190808cb
+:END:
+* 太平天国的这些失误，从根本上说是由于农民阶级 B
+:PROPERTIES:
+:hl-page: 136
+:ls-type: annotation
+:id: 63734e59-21c1-455a-8ab3-1f57e4fe9179
+:hl-color: yellow
+:END:
+* 洋务运动 B
+:PROPERTIES:
+:hl-page: 136
+:ls-type: annotation
+:id: 63735097-0c4f-4c7d-bbeb-4eb48b0f74e2
+:hl-color: yellow
+:END:
+* 民用工业的性质基本属于 B
+:PROPERTIES:
+:hl-page: 136
+:ls-type: annotation
+:id: 637350b7-d322-4f23-ab18-25ad761f5e74
+:hl-color: yellow
+:background-color: red
+:END:
+** D ((63735732-68bb-41b0-92dd-1f145bdea125))
+* 洋务事业中，当时国内最大的兵工厂 D
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:hl-color: yellow
+:id: 637350e9-312a-4e21-810e-0dcc42e763a4
+:END:
+* 民族资产阶级登上政治舞台的第一次表演 B
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:hl-color: yellow
+:id: 63735181-cd9d-4679-af24-6b02f278426c
+:END:
+* 没有采纳的维新派多次提出的主张 D
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 137
+:hl-color: yellow
+:id: 637351ac-fca2-47d7-85e1-eeb90f081989
+:END:
+* 戊戌维新运动的成功之处 C
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 137
+:hl-color: yellow
+:id: 637351d0-f9b6-4b5f-b69a-dd5d4d0b1acf
+:END:
+* 维新派在上海创办的影响最大的报刊 B
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 137
+:hl-color: yellow
+:id: 637351e1-4fb2-4948-9ead-2bd11a4dfbf3
+:END:
+* 《资政新篇》，其特点有 D
+:PROPERTIES:
+:hl-page: 137
+:ls-type: annotation
+:id: 6373520a-b8df-497d-959b-956d8594c47b
+:hl-color: yellow
+:background-color: red
+:END:
+** BD ((6373577b-1b48-4017-9d07-71478b0c6d4f))
+* 太平天国农民战争 A,C,D
+:PROPERTIES:
+:hl-page: 137
+:ls-type: annotation
+:id: 637354bc-57cc-40ad-9e0d-ec7f155d24aa
+:hl-color: yellow
+:END:
+* 北洋海军全军覆没 B,C,D
+:PROPERTIES:
+:hl-page: 137
+:ls-type: annotation
+:id: 637354fe-0603-4d46-95df-5a494383cd6d
+:hl-color: yellow
+:END:
+* 洋务运动 AD
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 63735522-9b78-413f-bfa1-12ef054a4fd9
+:hl-color: yellow
+:END:
+* 民用企业 AB
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 63735539-25e3-4d1d-85ae-6a4170eb4906
+:hl-color: yellow
+:background-color: red
+:END:
+** AC ((637357a3-4080-44e1-a8d8-621a123dba54))
+* 《马关条约》签订后，逼迫日本归还辽东半岛的国家 ACD
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 6373555c-9e61-4d7a-9ea2-8c8f49617280
+:hl-color: yellow
+:background-color: red
+:END:
+** ABD ((637357d3-5d16-4303-98b6-aa7b0198c83b))
+* “公车上书”被认为是维新派登上历史舞台的标志 ACD
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 6373557a-3110-4d93-a374-4dd7673b3af6
+:hl-color: yellow
+:END:
+* 资产阶级维新派创办的学会 ABC
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 63735591-52c9-4ff8-b91a-efb6705bf421
+:hl-color: yellow
+:background-color: red
+:END:
+** BCD ((637357ea-dd35-4b71-a89d-eb62dbd2d7b4))
+* 戊戌维新运动与洋务运动的不同点 BD
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 637355a1-1adb-4a54-8fd6-a82f73bbb53c
+:hl-color: yellow
+:background-color: red
+:END:
+** BCD
+* 维新派与封建守旧派之间展开激烈论战的议题 ABD
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 63735693-31aa-44fd-a157-c44e2be840f0
+:hl-color: yellow
+:END:
+* 维新派自身的局限性 ABC
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 637356a6-2292-422a-966f-443b5124b5d9
+:hl-color: yellow
+:END:
+* 通过这场论战 AC
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 637356b6-1a73-42f5-9d17-5cc4821411b1
+:hl-color: yellow
+:background-color: red
+:END:
+** AD
+* 守旧派观点 BCD
+:PROPERTIES:
+:hl-page: 139
+:ls-type: annotation
+:id: 637356d5-6183-47c6-991e-945538dea5ca
+:hl-color: yellow
+:END:
