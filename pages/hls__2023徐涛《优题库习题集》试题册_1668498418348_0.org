@@ -347,3 +347,11 @@
 :id: 637356d5-6183-47c6-991e-945538dea5ca
 :hl-color: yellow
 :END:
+* =辛亥革命=
+* 清政府改革的根本目的是 A
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 140
+:hl-color: yellow
+:id: 6377874e-f742-497c-8d41-f09e30dc85e7
+:END:

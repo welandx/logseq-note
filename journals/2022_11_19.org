@@ -1,0 +1,9 @@
+* [[计算机网络]]
+* [[计网每日一题]]
+** [[DHCP]]
+** [[https://i0.hdslb.com/bfs/new_dyn/d8bb535d1dec8ca0169c786265cc91d0360996402.png@1036w.webp][11]]
+:PROPERTIES:
+:id: 637828eb-320c-45fe-8dde-276a04db11ba
+:END:
+** [[https://i0.hdslb.com/bfs/new_dyn/d69e9223ff81ba965226a93ade5d1a14360996402.png@1295w.webp][11]]
+*
