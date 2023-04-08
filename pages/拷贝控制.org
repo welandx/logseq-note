@@ -1,0 +1,7 @@
+* Copy Control
+* 拷贝构造函数
+** 构造函数的第一个参数是该类类型的引用，即为copy constructor
+** 自动生成的拷贝构造函数 (synthesized)
+** 拷贝初始化copy Initialization
+*** 使用 ~=~ 进行初始化
+*

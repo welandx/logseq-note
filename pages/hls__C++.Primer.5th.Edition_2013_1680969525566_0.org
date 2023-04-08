@@ -1,0 +1,23 @@
+#+file-path: ../assets/C++.Primer.5th.Edition_2013_1680969525566_0.pdf
+
+* Parameters and Return Values
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 527
+:hl-color: yellow
+:id: 64319a9d-aaa4-4734-9bc1-9cc5f7df0afc
+:END:
+* right-hand operand into the object being created
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 526
+:hl-color: yellow
+:id: 64319b81-205a-4351-8acc-0797df55da4d
+:END:
+* Copy initialization ordinarily uses the copy constructor. However, as we’ll see in § 13.6.2 (p. 534), if a class has a move constructor, then copy initialization sometimes uses the move constructor instead of the copy constructor. For now, what’s useful to know is when copy initialization happens and that copy initialization requires either the copy constructor or the move constructor.
+:PROPERTIES:
+:hl-page: 527
+:ls-type: annotation
+:id: 6431a14d-02d5-447b-a0d2-ad7fdc79b0ef
+:hl-color: blue
+:END:

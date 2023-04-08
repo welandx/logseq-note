@@ -1,0 +1,5 @@
+* [[../assets/C++.Primer.5th.Edition_2013_1680969525566_0.pdf][C++.Primer.5th.Edition_2013.pdf]]
+* https://github.com/applenob/Cpp_Primer_Practice
+* [[拷贝控制]]
+* [[虚函数]]
+*
