@@ -1,0 +1,19 @@
+* 特殊用途
+** 默认实参 Default Arguments
+*** 未指定的参数为默认值，指定的参数为指定值
+** 内联函数 Inline
+*** 避免函数调用的开销，编译器在编译时展开函数
+*** ```cpp
+inline const string &
+shorterSring(const string &s1, const string &s2){
+	return s1.size() <= s2.size() ? s1 : s2;
+}
+```
+** constexpr functions
+*** 能用于常量表达式 (constant expression) 的函数
+*** ```cpp
+constexpr int new_sz() {return 42;}
+constexpr int foo = new_sz();
+```
+*** 参数和返回值都为字面类型 (literal type)
+** Inline constexpr 通常放在头文件

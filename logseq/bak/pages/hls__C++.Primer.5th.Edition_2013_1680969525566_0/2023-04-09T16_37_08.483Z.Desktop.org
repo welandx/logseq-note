@@ -1,0 +1,87 @@
+#+file-path: ../assets/C++.Primer.5th.Edition_2013_1680969525566_0.pdf
+
+* Parameters and Return Values
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 527
+:hl-color: yellow
+:id: 64319a9d-aaa4-4734-9bc1-9cc5f7df0afc
+:END:
+* right-hand operand into the object being created
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 526
+:hl-color: yellow
+:id: 64319b81-205a-4351-8acc-0797df55da4d
+:END:
+* Copy initialization ordinarily uses the copy constructor. However, as we’ll see in § 13.6.2 (p. 534), if a class has a move constructor, then copy initialization sometimes uses the move constructor instead of the copy constructor. For now, what’s useful to know is when copy initialization happens and that copy initialization requires either the copy constructor or the move constructor.
+:PROPERTIES:
+:hl-page: 527
+:ls-type: annotation
+:id: 6431a14d-02d5-447b-a0d2-ad7fdc79b0ef
+:hl-color: blue
+:END:
+* Because it takes no parameters, it cannot be overloaded. There is always only one destructor for a given class.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 530
+:hl-color: yellow
+:id: 6432ab98-eaa9-4e90-8357-ba08f3b36c38
+:END:
+* A function specified as inline (usually) is expanded “in line” at each call
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 267
+:hl-color: yellow
+:id: 6432d88c-927c-4a30-9826-f61576b178af
+:END:
+* The inline specification is only a request to the compiler. The compiler may choose to ignore this request.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 268
+:hl-color: yellow
+:id: 6432da8e-a27f-42fc-81d0-fb22a6c51ad5
+:END:
+* A constexpr function is a function that can be used in a constant expression
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 268
+:hl-color: yellow
+:id: 6432dabe-e0df-4ac4-8a9c-ecf63bc042b1
+:END:
+* Literal Types
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:hl-color: yellow
+:id: 6432dc20-a86d-4fab-a379-bcdcd98fb8cb
+:END:
+* The types we can use in a constexpr are known as “literal types” because they are simple enough to have literal values
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:hl-color: blue
+:id: 6432dd55-d99a-40f8-9386-28792abdf6d8
+:END:
+* Of the types we have used so far, the arithmetic, reference, and pointer types are literal types. Our Sales_item class and the library IO and string types are not literal types.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:hl-color: blue
+:id: 6432dd5c-cfa2-4436-b8bc-3fca12e26508
+:END:
+* A constexpr function is defined like any other function but must meet certain restrictions: The return type and the type of each parameter in a must be a literal type (§ 2.4.4, p. 66), and the function body must contain exactly one return statement:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 268
+:hl-color: blue
+:id: 6432e1ce-1ab1-4fe6-976e-ba961eb28dde
+:hl-stamp: 1681056212901
+:END:
+* Put inline and constexpr Functions in Header Files
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 269
+:hl-color: yellow
+:id: 6432e413-2c8d-46e0-9f6b-610728825b56
+:END:
